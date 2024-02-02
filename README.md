@@ -4,7 +4,7 @@ This is a simple Task Manager application built using React. The Task Manager al
 
 ## Website Link
 
-The live version of the quiz application can be accessed at [Task Manager](https://taskmanager-lemon.vercel.app/dashboard).
+The live version of the quiz application can be accessed at [Task Manager](https://taskmanager-lemon.vercel.app/).
 
 ## Features
 
