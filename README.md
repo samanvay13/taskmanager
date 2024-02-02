@@ -1,6 +1,23 @@
+# React Task Manager App
+
+This is a simple Task Manager application built using React. The Task Manager allows users to add, remove, and mark tasks as completed. It provides a convenient interface for managing daily tasks or creating to-do lists.
+
 ## Website Link
 
 The live version of the quiz application can be accessed at [Task Manager](https://taskmanager-lemon.vercel.app/dashboard).
+
+## Features
+
+- **Add Tasks:** Users can easily add new tasks to their list by entering the task date and description and pressing the "Add Task" button.
+- **Remove Tasks:** Tasks can be removed individually by clicking on the delete icon next to each task.
+- **Mark as Completed:** Users can mark tasks as completed by clicking on the checkbox next to each task. Completed tasks are visually distinguished from active tasks.
+- **Responsive Design:** The application is designed to be responsive, ensuring a seamless user experience across various devices and screen sizes.
+
+## Technologies Used
+
+- React
+- HTML/CSS
+- JavaScript
 
 # Getting Started with Create React App
 
